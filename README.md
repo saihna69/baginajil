@@ -11,8 +11,7 @@
     padding-left: 30px;
 }
 .box1{
-   
-    display: flex;
+        display: flex;
       text-align: center;
       gap: 10px;
       width: 830px;
@@ -20,7 +19,15 @@
       background-color: ;
       padding: 20px;
       font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+
+
+
 }
+
+
+   
+
 
 </style>
 </head>
